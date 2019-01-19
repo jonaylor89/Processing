@@ -27,7 +27,7 @@ void main() {
 
     st -= vec2(0.5);
 
-    st = rotate2d( sin(u_time) * PI * 100.0 ) * st;
+    st = rotate2d( sin(u_time) * PI * 1.0 ) * st;
 
     st += vec2(0.5);
 
