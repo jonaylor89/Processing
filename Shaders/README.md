@@ -1,2 +1,2 @@
 
-![Preview Gif](Shaders/Shaders.gif)
+![Preview Gif](Shaders.gif)
