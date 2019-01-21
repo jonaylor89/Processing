@@ -17,5 +17,4 @@ void draw() {
   rect(width/2, height/2, width, height);
   ellipse(width/2, height/2, 500.0, 500.0);
   
-  println(frameRate);
 }
